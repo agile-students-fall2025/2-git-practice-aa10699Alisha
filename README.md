@@ -1,2 +1,10 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+# My Git Practice Repo
+
+## Interesting Read
+[The hardest part of building software is not coding, it’s requirements](https://stackoverflow.blog/2023/12/29/the-hardest-part-of-building-software-is-not-coding-its-requirements/)
+
+## Why I found it interesting
+I found this article interesting because it shows how gathering, understanding, and managing requirements can make or break a software project. We often people assume coding is the main challenge, but unclear or changing requirements lead to miscommunication, wasted work, scope creep, and bugs. I liked how the article discusses that investing time early in defining what needs to be built—and keeping stakeholders aligned can be extremely helpful.  
+
+— *Alisha*
+
