@@ -8,3 +8,6 @@ I found this article interesting because it shows how gathering, understanding, 
 
 — *Alisha*
 
+## Abyan's comments
+I think I mostly agree with what the article is saying, even if the approach is a bit too rigid for me. I feel that AI definitely cannot replace humans right now but the issues described are mostly related to human interaction, and AI can definitely speed up our own processes (and thus smooth over these issues) by coding at a rate faster than humans can, just like it can play Chess better than a human can. 
+- *Muhammad Abyan Ahmed*
